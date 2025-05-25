@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Weather Alerts</title>
+    <link>https://www.wmar2news.com/weather/alerts</link>
+    <description>Weather Alerts</description>
+    <copyright>Copyright Scripps Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.</copyright>
+    <lastBuildDate>Mon, 08 Jan 2024 22:03:10 GMT</lastBuildDate>
+    <atom:link href="https://www.wmar2news.com/weather/alerts.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

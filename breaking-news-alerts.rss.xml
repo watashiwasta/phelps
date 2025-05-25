@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Breaking News and Alerts</title>
+    <link>https://www.wmar2news.com/breaking-news-alerts</link>
+    <description>Breaking News and Alerts</description>
+    <copyright>Copyright Scripps Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.</copyright>
+    <lastBuildDate>Tue, 19 Mar 2019 16:27:00 GMT</lastBuildDate>
+    <atom:link href="https://www.wmar2news.com/breaking-news-alerts.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>
